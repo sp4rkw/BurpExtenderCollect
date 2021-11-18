@@ -53,3 +53,9 @@
 - **Copy Request & Response** --- 快速按规范复制得到请求包/返回包的内容，方便编写渗透测试报告，演示动图[戳这里](https://github.com/CompassSecurity/burp-copy-request-response/blob/master/demo.gif)
 
     [插件地址](https://github.com/CompassSecurity/burp-copy-request-response)
+- **CaA** --- 主要作用就是收集流经BurpSuite Proxy模块中的HTTP流量，并从中提取一些有价值的信息，可以用于接口的枚举。介绍文档直接看官方github[戳这里](https://github.com/gh0stkey/CaA)
+
+    [插件地址](https://github.com/gh0stkey/CaA)
+- **EasyBurpVuln** --- 具备自动添加Payload和一定的扫描能力，这个插件最主要的作用是提供基础代码，有助于二次魔改，插件介绍博客[戳这里](https://www.cnblogs.com/donot/p/14911801.html)
+
+    [插件地址](https://github.com/donot-wong/EasyBurpVuln)
